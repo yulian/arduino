@@ -1,7 +1,6 @@
-Do it! 아두이노 입문
-==========================
-(고장확률 0%, 성공 확률 100%!)
-==========================
+# Do it! 아두이노 입문
+### (고장확률 0%, 성공 확률 100%!)
+
 ***
 <kbd>
   <img src="https://github.com/yulian/arduino/blob/main/Doit_Arduino_Cover.png" width="300" height="450">
