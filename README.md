@@ -16,7 +16,11 @@
 ### 2장 아두이노 개발 환경 만들기
 * 영상06 : 아두이노 통합 개발 환경 설치하기 -> [바로가기 링크](https://www.youtube.com/watch?v=J1JGSzZ6Y10)
 * 영상07 : 아두이노 보드와 호환 보드 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TVvfKPwklY4)
+
 ### 3장 온라인에서 아두이노 만나기
+* 영상08 : 아두이노 시뮬레이터란? -> [바로가기 링크](https://www.youtube.com/watch?v=-C0D4BRqIdM)
+* 영상09 : 아두이노와 시뮬레이터의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=X4Bymf2lSjU)
+
 ### 4장 시뮬레이터로 안전하게 아두이노 시작하기
 ### 5장 전기 신호의 종류와 움직임 이해하기
 * 도전05 : LED 두 개를 번갈아 깜빡여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge05.ino)
