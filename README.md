@@ -3,7 +3,7 @@
 
 ***
 <kbd>
-  <img src="https://github.com/yulian/arduino/blob/main/Doit_Arduino_Cover.png" width="300" height="450">
+  <img src="https://github.com/yulian/arduino/blob/main/Doit_Arduino.png" width="300" height="450">
 </kbd>
 
 첫째 마당 - 기본편
