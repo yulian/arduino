@@ -2,7 +2,7 @@
 ### (고장확률 0%, 성공 확률 100%!)
 
 ***
-<img src="https://github.com/yulian/arduino/blob/main/Doit_Arduino.png" width="300" height="450">
+<img src="https://github.com/yulian/arduino/blob/main/Doit_Arduino.png" width="350" height="450">
 
 첫째 마당 - 기본편
 --------------
