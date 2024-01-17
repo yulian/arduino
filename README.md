@@ -14,6 +14,8 @@
 * 영상05 : 드론과 RC카를 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=1ZrHEypvW-g)
   
 ### 2장 아두이노 개발 환경 만들기
+* 영상06 : 아두이노 통합 개발 환경 설치하기 -> [바로가기 링크](https://www.youtube.com/watch?v=J1JGSzZ6Y10)
+* 영상07 : 아두이노 보드와 호환 보드 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TVvfKPwklY4)
 ### 3장 온라인에서 아두이노 만나기
 ### 4장 시뮬레이터로 안전하게 아두이노 시작하기
 ### 5장 전기 신호의 종류와 움직임 이해하기
