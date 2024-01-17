@@ -22,6 +22,13 @@
 * :arrow_forward: 09 : 아두이노와 시뮬레이터의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=X4Bymf2lSjU)
 
 ### 4장 시뮬레이터로 안전하게 아두이노 시작하기
+* :arrow_forward: 10 : 오토데스크 회원 가입하기 -> [바로가기 링크](https://www.youtube.com/watch?v=-C0D4BRqIdM)
+* :arrow_forward: 11 : 아두이노 시뮬레이터의 기본 사용법 -> [바로가기 링크](https://www.youtube.com/watch?v=DajDkTDfLz0)
+* :arrow_forward: 11 : 아두이노 보드에 구성 요소 연결하기 -> [바로가기 링크](https://www.youtube.com/watch?v=plGxV17zaIE)
+* :arrow_forward: 12 : 구성 요소의 기능과 속성 이해하기 -> [바로가기 링크](https://www.youtube.com/watch?v=NnTiFZZxz1I)
+* :arrow_forward: 13 : 코드 확인하고 시뮬레이터 실행하기 -> [바로가기 링크](https://www.youtube.com/watch?v=ECicgPo-o-s)
+* :arrow_forward: 14 : 시간을 아껴 주는 단축키 활용법 -> [바로가기 링크](https://www.youtube.com/watch?v=RQaiKAOS1X0)
+
 ### 5장 전기 신호의 종류와 움직임 이해하기
 * 도전05 : LED 두 개를 번갈아 깜빡여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge05.ino)
 
