@@ -7,19 +7,19 @@
 [ 첫째 마당 ] 
 --------------
 ### 1장 사물인터넷과 아두이노 알아보기
-* 영상01 : 자전거의 속력을 측정해요 -> [바로가기 링크](https://www.youtube.com/watch?v=g6Rz4jPBNFc)
-* 영상02 : 농작물을 키워요 -> [바로가기 링크](https://www.youtube.com/watch?v=uNkADHZStDE)
-* 영상03 : 안경으로 데이터를 볼 수 있어요 -> [바로가기 링크](https://www.youtube.com/watch?v=lkl6yVauCKg)
-* 영상04 : 오또봇을 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=VD6sgTo6NOY)
-* 영상05 : 드론과 RC카를 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=1ZrHEypvW-g)
+* :arrow_forward: 01 : 자전거의 속력을 측정해요 -> [바로가기 링크](https://www.youtube.com/watch?v=g6Rz4jPBNFc)
+* :arrow_forward: 02 : 농작물을 키워요 -> [바로가기 링크](https://www.youtube.com/watch?v=uNkADHZStDE)
+* :arrow_forward: 03 : 안경으로 데이터를 볼 수 있어요 -> [바로가기 링크](https://www.youtube.com/watch?v=lkl6yVauCKg)
+* :arrow_forward: 04 : 오또봇을 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=VD6sgTo6NOY)
+* :arrow_forward: 05 : 드론과 RC카를 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=1ZrHEypvW-g)
   
 ### 2장 아두이노 개발 환경 만들기
-* 영상06 : 아두이노 통합 개발 환경 설치하기 -> [바로가기 링크](https://www.youtube.com/watch?v=J1JGSzZ6Y10)
-* 영상07 : 아두이노 보드와 호환 보드 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TVvfKPwklY4)
+* :arrow_forward: 06 : 아두이노 통합 개발 환경 설치하기 -> [바로가기 링크](https://www.youtube.com/watch?v=J1JGSzZ6Y10)
+* :arrow_forward: 07 : 아두이노 보드와 호환 보드 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TVvfKPwklY4)
 
 ### 3장 온라인에서 아두이노 만나기
-* 영상08 : 아두이노 시뮬레이터란? -> [바로가기 링크](https://www.youtube.com/watch?v=-C0D4BRqIdM)
-* 영상09 : 아두이노와 시뮬레이터의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=X4Bymf2lSjU)
+* :arrow_forward: 08 : 아두이노 시뮬레이터란? -> [바로가기 링크](https://www.youtube.com/watch?v=-C0D4BRqIdM)
+* :arrow_forward: 09 : 아두이노와 시뮬레이터의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=X4Bymf2lSjU)
 
 ### 4장 시뮬레이터로 안전하게 아두이노 시작하기
 ### 5장 전기 신호의 종류와 움직임 이해하기
