@@ -7,6 +7,12 @@
 [ 첫째 마당 ] 
 --------------
 ### 1장 사물인터넷과 아두이노 알아보기
+* 영상01 : 자전거의 속력을 측정해요 -> [바로가기 링크](https://www.youtube.com/watch?v=g6Rz4jPBNFc)
+* 영상02 : 농작물을 키워요 -> [바로가기 링크](https://www.youtube.com/watch?v=uNkADHZStDE)
+* 영상03 : 안경으로 데이터를 볼 수 있어요 -> [바로가기 링크](https://www.youtube.com/watch?v=lkl6yVauCKg)
+* 영상04 : 오또봇을 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=VD6sgTo6NOY)
+* 영상05 : 드론과 RC카를 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=1ZrHEypvW-g)
+  
 ### 2장 아두이노 개발 환경 만들기
 ### 3장 온라인에서 아두이노 만나기
 ### 4장 시뮬레이터로 안전하게 아두이노 시작하기
