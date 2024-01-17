@@ -32,11 +32,13 @@
 ### 5장 전기 신호의 종류와 움직임 이해하기
 * :arrow_forward: 15 : 아날로그 신호를 어떻게 디지털 신호로 바꾸는 건가요? -> [바로가기 링크](https://www.youtube.com/watch?v=rnDBymtIhb0)
 * :arrow_forward: 16 : 디지털 신호와 아날로그 신호의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=KECsTF7z0XE)
-* :arrow_forward: 17 : 전기 신호가 동작하는지 원리와 저장의 필요성 -> [바로가기 링크](https://www.youtube.com/watch?v=6nHtP2_H7Kk)
+* :arrow_forward: 17 : 전기 신호가 어떻게 동작하는지 원리와 저항의 필요성 -> [바로가기 링크](https://www.youtube.com/watch?v=6nHtP2_H7Kk)
 
 [ 둘째 마당 ] 
 --------------
 ### 6장 디지털 출력으로 아두이노 작동하기
+* 실습06-01 : LED 깜빡이기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example06-01.ino)
+
 * 실습06-01 : 푸시 버튼으로 발광 다이오드 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-01.ino)
 * 실습06-02 : 플로팅 현상 이해하기
 * 실습06-03 : 내부 풀업 저항을 사용해서 LED 전원 스위치 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-02.ino)
