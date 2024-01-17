@@ -30,7 +30,9 @@
 * :arrow_forward: 14 : 시간을 아껴 주는 단축키 활용법 -> [바로가기 링크](https://www.youtube.com/watch?v=RQaiKAOS1X0)
 
 ### 5장 전기 신호의 종류와 움직임 이해하기
-* 도전05 : LED 두 개를 번갈아 깜빡여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge05.ino)
+* :arrow_forward: 15 : 아날로그 신호를 어떻게 디지털 신호로 바꾸는 건가요? -> [바로가기 링크](https://www.youtube.com/watch?v=rnDBymtIhb0)
+* :arrow_forward: 16 : 디지털 신호와 아날로그 신호의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=KECsTF7z0XE)
+* :arrow_forward: 17 : 전기 신호가 동작하는지 원리와 저장의 필요성 -> [바로가기 링크](https://www.youtube.com/watch?v=6nHtP2_H7Kk)
 
 [ 둘째 마당 ] 
 --------------
