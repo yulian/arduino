@@ -38,12 +38,20 @@
 --------------
 ### 6장 디지털 출력으로 아두이노 작동하기
 * 실습06-01 : LED 깜빡이기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example06-01.ino)
+* 실습06-04 : 시리얼 모니터로 LED 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example06-04.ino)
+* 실습06-05 : 두 개의 LED를 교대로 깜빡이기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example06-05.ino)
+* :arrow_forward: 18 : 브레드보드에서 LED 방향 확인하기 -> [바로가기 링크](https://www.youtube.com/watch?v=xBpGxaRZ7zc)
+* :arrow_forward: 19 : LED 깜빡이는 회로와 코드 디버깅하기 -> [바로가기 링크](https://www.youtube.com/watch?v=hL5mKzoJO3E)
+* :arrow_forward: 20 : 계측기로 저항값 읽기 -> [바로가기 링크](https://www.youtube.com/watch?v=FcMOaJPyEGg)
+* :arrow_forward: 21 : 저항 없이 구성한 회로 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=1MjAWByeivk)
+* :arrow_forward: 22 : 저항을 추가해 회로 완성하기 -> [바로가기 링크](https://www.youtube.com/watch?v=8oKPz1eZTPM)
+* :arrow_forward: 23 : 브레드보드는 어떻게 생겼을까요? -> [바로가기 링크](https://www.youtube.com/watch?v=KOItY_Eu9ws)
+* :arrow_forward: 24 : 브레드보드에서 LED에 불을 밝혀 봐요! -> [바로가기 링크](https://www.youtube.com/watch?v=zyHTlZqqAAY)
+* :arrow_forward: 25 : 시리얼 모니터로 아두이노 작동 상태 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=u7dTVtFD6Bw)
+* :arrow_forward: 26 : 시리얼 모니터로 LED 켜고 끄기 -> [바로가기 링크](https://www.youtube.com/watch?v=UGHYVc00pMw)
+* :arrow_forward: 26 : LED 두 개를 번갈아 깜박이기 -> [바로가기 링크](https://www.youtube.com/watch?v=9YKfquoixa4)
 
-* 실습06-01 : 푸시 버튼으로 발광 다이오드 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-01.ino)
-* 실습06-02 : 플로팅 현상 이해하기
-* 실습06-03 : 내부 풀업 저항을 사용해서 LED 전원 스위치 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-02.ino)
-* 실습06-04 : 슬라이드 스위치로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-03.ino)
-* 실습06-05 : PIR 센서로 현관등 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example06-04.ino)
+
 * 도전06 : 푸시 버튼을 슬라이드 스위치처럼 사용해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge06.ino)
 
 ### 7장 디지털 입력으로 아두이노 작동하기
