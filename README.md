@@ -73,13 +73,19 @@
 
 
 ### 8장 아날로그 입력으로 아두이노 작동하기
-* PWM과 아날로그 출력의 원리(깜빡임과 밝기 조절) -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-01.ino)
-* 실습08-01 : 아날로그 출력으로 LED 밝기 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-02.ino)
-* 실습08-02 : 가변저항으로 LED 밝기 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-03.ino)
-* 실습08-03 : 삼색 LED 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-04.ino)
-* 실습08-04 : DC 모터의 속도 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-05.ino)
-* 실습08-05 : DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-06.ino)
-* 도전08 : 삼색 LED 색상을 직접 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge08.ino)
+* 실습08-01 : 가변저항 값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-01.ino)
+* 실습08-02 : 가변저항으로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-02.ino)
+* 실습08-03(1) : 가변저항으로 LED 깜빡임 속도 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-03.ino)
+* 실습08-03(2) : 가변저항으로 LED 깜빡임 속도 조절하기(출력범위 변경) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-03-02.ino)
+* 실습08-04 : 조도 센서값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-04.ino)
+* 실습08-05 : 조도 센서로 스마트 가로등 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-05.ino)
+* 실습08-06 : 온도 센서로 온도계 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-06.ino)
+* :arrow_forward: 34 : 가변저항으로 LED 제어하기 -> [바로가기 링크](https://www.youtube.com/watch?v=lCir7BAF-Uk)
+* :arrow_forward: 35 : 스마트 가로등 회로가 작동하는 모습 -> [바로가기 링크](https://www.youtube.com/watch?v=Q6YpXooH7AA)
+* :arrow_forward: 36 : 조도 센서로 스마트 가로등 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=n1wxc8hvdsc)
+* :arrow_forward: 37 : 온도 센서로 온돗값 측정하기 -> [바로가기 링크](https://www.youtube.com/watch?v=OhgZI-KVkt8)
+* 도전08 : 화재경보기를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge08.ino)
+
 
 ### 9장 아날로그 출력으로 아두이노 작동하기
 * 실습09-01 : 초음파센서로 거리 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-01.ino)
