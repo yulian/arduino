@@ -50,9 +50,7 @@
 * :arrow_forward: 25 : 시리얼 모니터로 아두이노 작동 상태 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=u7dTVtFD6Bw)
 * :arrow_forward: 26 : 시리얼 모니터로 LED 켜고 끄기 -> [바로가기 링크](https://www.youtube.com/watch?v=UGHYVc00pMw)
 * :arrow_forward: 26 : LED 두 개를 번갈아 깜박이기 -> [바로가기 링크](https://www.youtube.com/watch?v=9YKfquoixa4)
-
-
-* 도전06 : 푸시 버튼을 슬라이드 스위치처럼 사용해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge06.ino)
+* 도전06 : LED 세 개로 신호등 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge06.ino)
 
 ### 7장 디지털 입력으로 아두이노 작동하기
 * 실습07-01 : 가변저항 값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-01.ino)
