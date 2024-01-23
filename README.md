@@ -88,11 +88,20 @@
 
 
 ### 9장 아날로그 출력으로 아두이노 작동하기
-* 실습09-01 : 초음파센서로 거리 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-01.ino)
-* 실습09-02 : 물체 사이의 거리에 반응하는 LED 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-02.ino)
-* 실습09-03 : 서보모터의 회전 각도 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-03.ino)
-* 실습09-04 : 서보모터와 PIR 센서로 자동문 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example09-04.ino)
-* 도전09 : 핀이 네 개인 초음파 센서를 다뤄봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge09.ino)
+* 실습09-01 : 아날로그 출력으로 LED 밝기 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example09-01.ino)
+* 실습09-02 : 가변저항으로 LED 밝기 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example09-02.ino)
+* 실습09-03 : 반복문으로 디지털 반딧불이 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example09-03.ino)
+* 실습09-04 : 삼색 LED 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example09-04.ino)
+* 실습09-05 : DC 모터의 속도 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example09-05.ino)
+* 실습09-06 : DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example09-06.ino)
+* :arrow_forward: 38 : PWM과 아날로그 출력 이해하기 -> [바로가기 링크](https://www.youtube.com/watch?v=sdtTwisf8Sw)
+* :arrow_forward: 39 : 실제 가변저항으로 LED 밝기 조절하기 -> [바로가기 링크](https://www.youtube.com/watch?v=26OXWxwUSyI)
+* :arrow_forward: 40 : 가변저항과 map() 함수로 아날로그 입력 범위 조정하기 -> [바로가기 링크](https://www.youtube.com/watch?v=A7dKw281dTA)
+* :arrow_forward: 41 : 반복문으로 디지털 반딧불이 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=gxtexhEaJ4w)
+* :arrow_forward: 42 : 실제 삼색 LED로 다양한 색상 출력하기 -> [바로가기 링크](https://www.youtube.com/watch?v=JI2Q4VT7tkE)
+* :arrow_forward: 43 : 삼색 LED의 동작 원리 자세히 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=KZnTMccVDtw)
+* 도전09 : 삼색 LED 색상을 직접 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge09.ino)
+
 
 ### 10장 함수와 라이브러리 활용하기
 * 실습10-01 : LCD에 지정한 문자열 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-01.ino)
