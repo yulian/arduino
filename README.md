@@ -12,14 +12,17 @@
 * :arrow_forward: 03 : 안경으로 데이터를 볼 수 있어요 -> [바로가기 링크](https://www.youtube.com/watch?v=lkl6yVauCKg)
 * :arrow_forward: 04 : 오또봇을 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=VD6sgTo6NOY)
 * :arrow_forward: 05 : 드론과 RC카를 만들어요 -> [바로가기 링크](https://www.youtube.com/watch?v=1ZrHEypvW-g)
-  
+
+
 ### 2장 아두이노 개발 환경 만들기
 * :arrow_forward: 06 : 아두이노 통합 개발 환경 설치하기 -> [바로가기 링크](https://www.youtube.com/watch?v=J1JGSzZ6Y10)
 * :arrow_forward: 07 : 아두이노 보드와 호환 보드 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TVvfKPwklY4)
 
+
 ### 3장 온라인에서 아두이노 만나기
 * :arrow_forward: 08 : 아두이노 시뮬레이터란? -> [바로가기 링크](https://www.youtube.com/watch?v=-C0D4BRqIdM)
 * :arrow_forward: 09 : 아두이노와 시뮬레이터의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=X4Bymf2lSjU)
+
 
 ### 4장 시뮬레이터로 안전하게 아두이노 시작하기
 * :arrow_forward: 10 : 오토데스크 회원 가입하기 -> [바로가기 링크](https://www.youtube.com/watch?v=-C0D4BRqIdM)
@@ -29,10 +32,12 @@
 * :arrow_forward: 13 : 코드 확인하고 시뮬레이터 실행하기 -> [바로가기 링크](https://www.youtube.com/watch?v=ECicgPo-o-s)
 * :arrow_forward: 14 : 시간을 아껴 주는 단축키 활용법 -> [바로가기 링크](https://www.youtube.com/watch?v=RQaiKAOS1X0)
 
+
 ### 5장 전기 신호의 종류와 움직임 이해하기
 * :arrow_forward: 15 : 아날로그 신호를 어떻게 디지털 신호로 바꾸는 건가요? -> [바로가기 링크](https://www.youtube.com/watch?v=rnDBymtIhb0)
 * :arrow_forward: 16 : 디지털 신호와 아날로그 신호의 차이점 -> [바로가기 링크](https://www.youtube.com/watch?v=KECsTF7z0XE)
 * :arrow_forward: 17 : 전기 신호가 어떻게 동작하는지 원리와 저항의 필요성 -> [바로가기 링크](https://www.youtube.com/watch?v=6nHtP2_H7Kk)
+
 
 [ 둘째 마당 ] 
 --------------
@@ -49,21 +54,23 @@
 * :arrow_forward: 24 : 브레드보드에서 LED에 불을 밝혀 봐요! -> [바로가기 링크](https://www.youtube.com/watch?v=zyHTlZqqAAY)
 * :arrow_forward: 25 : 시리얼 모니터로 아두이노 작동 상태 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=u7dTVtFD6Bw)
 * :arrow_forward: 26 : 시리얼 모니터로 LED 켜고 끄기 -> [바로가기 링크](https://www.youtube.com/watch?v=UGHYVc00pMw)
-* :arrow_forward: 26 : LED 두 개를 번갈아 깜박이기 -> [바로가기 링크](https://www.youtube.com/watch?v=9YKfquoixa4)
+* :arrow_forward: 27 : LED 두 개를 번갈아 깜박이기 -> [바로가기 링크](https://www.youtube.com/watch?v=9YKfquoixa4)
 * 도전06 : LED 세 개로 신호등 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge06.ino)
+
 
 ### 7장 디지털 입력으로 아두이노 작동하기
 * 실습07-01 : 푸시 버튼으로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example07-01.ino)
+* 실습07-03 : 내부 풀업 저항을 사용해서 LED 전원 스위치 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example07-03.ino)
+* 실습07-04 : 슬라이드 스위치로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example07-04.ino)
+* 실습07-05 : PIR 센서로 현관 등 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example07-05.ino)
+* :arrow_forward: 28 : 푸시 버튼으로 LED 제어하기 -> [바로가기 링크](https://www.youtube.com/watch?v=yDQxGTSmKEA)
+* :arrow_forward: 29 : 조건이 세 개 이상인 조건문 자세히 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=oNwWQkiH0Tc)
+* :arrow_forward: 30 : 실제 플로팅 현상 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=WLX5iEtDLZo)
+* :arrow_forward: 31 : 플로팅 현상과 풀업, 풀다운 저항 자세히 살펴보기 -> [바로가기 링크](https://www.youtube.com/watch?v=ssndO0lDDVU)
+* :arrow_forward: 32 : 슬라이스 스위치로 LED 제어하기 -> [바로가기 링크](https://www.youtube.com/watch?v=o6m_fVSKbr4)
+* :arrow_forward: 33 : PIR 센서로 현관 등 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=SFnI-P-zjMo)
+* 도전07 : 푸시 버튼을 슬라이드 스위치처럼 사용해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge07.ino)
 
-
-* 실습07-01 : 가변저항 값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-01.ino)
-* 실습07-02 : 가변저항으로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-02.ino)
-* 실습07-03(1) : 가변저항으로 LED 깜빡임 속도 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-03.ino)
-* 실습07-03(2) : 가변저항으로 LED 깜빡임 속도 조절하기(출력범위 변경) -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-04.ino)
-* 실습07-04 : 조도센서 값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-05.ino)
-* 실습07-05 : 조도센서로 스마트 가로등 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-06.ino)
-* 실습07-06 : 온도센서로 온도계 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-07.ino)
-* 도전07 : 화재경보기를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge07.ino)
 
 ### 8장 아날로그 입력으로 아두이노 작동하기
 * PWM과 아날로그 출력의 원리(깜빡임과 밝기 조절) -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example08-01.ino)
