@@ -53,6 +53,9 @@
 * 도전06 : LED 세 개로 신호등 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge06.ino)
 
 ### 7장 디지털 입력으로 아두이노 작동하기
+* 실습07-01 : 푸시 버튼으로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example07-01.ino)
+
+
 * 실습07-01 : 가변저항 값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-01.ino)
 * 실습07-02 : 가변저항으로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-02.ino)
 * 실습07-03(1) : 가변저항으로 LED 깜빡임 속도 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example07-03.ino)
