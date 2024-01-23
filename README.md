@@ -75,8 +75,8 @@
 ### 8장 아날로그 입력으로 아두이노 작동하기
 * 실습08-01 : 가변저항 값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-01.ino)
 * 실습08-02 : 가변저항으로 LED 켜고 끄기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-02.ino)
-* 실습08-03(1) : 가변저항으로 LED 깜빡임 속도 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-03.ino)
-* 실습08-03(2) : 가변저항으로 LED 깜빡임 속도 조절하기(출력범위 변경) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-03-02.ino)
+* 실습08-03 : 가변저항으로 LED 깜빡임 속도 조절하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-03.ino)
+* 실습08-03 : 가변저항으로 LED 깜빡임 속도 조절하기(출력범위 변경) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-03-02.ino)
 * 실습08-04 : 조도 센서값 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-04.ino)
 * 실습08-05 : 조도 센서로 스마트 가로등 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-05.ino)
 * 실습08-06 : 온도 센서로 온도계 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example08-06.ino)
@@ -135,9 +135,15 @@
 
 
 ### 12장 7세그먼트로 숫자 표시하기
-* 실습12-01 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example12-01.ino)
-* 실습12-02 : 적외선 리모컨으로 무드등 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example12-02.ino)
-* 도전12 : 적외선 리모컨으로 LED의 밝기를 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge12.ino)
+* 실습12-01 : 7세그먼트로 숫자 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example12-01.ino)
+* 실습12-02 : 7세그먼트의 스케치 코드 개선하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example12-02.ino)
+* 실습12-03 : 7세그먼트로 타이머 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example12-03.ino)
+* 실습12-03 : 7세그먼트 디코더 활용법 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example12-04.ino)
+* :arrow_forward: 53 : 7세그먼트 기본 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=Ir1h7ubjuSw)
+* :arrow_forward: 54 : 배열을 사용해 7세그먼트 스케치 코드 개선하기 -> [바로가기 링크](https://www.youtube.com/watch?v=roAuTlsjD10)
+* :arrow_forward: 55 : 7세그먼트로 타이머 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=m7v5ky1jA5E)
+* 도전12 : 가변저항으로 7세그먼트를 움직여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge11.ino)
+
 
 ### 13장 적외선 센서와 리모컨 활용하기
 * 실습13-01 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-01.ino)
