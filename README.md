@@ -127,7 +127,7 @@
 * 실습11-02 : LCD에 온돗값 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-02.ino)
 * 실습11-03 : LCD의 출력된 문자에 이동 효과 주기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-03.ino)
 * 실습11-04 : I2C 통신으로 LCD 제어하기(PCF8574 기반) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-04.ino)
-* 실습11-04 : I2C 통신으로 LCD 제어하기(MCP23008 기반) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-04-02.ino)
+* 실습11-04 : I2C 통신으로 LCD 제어하기(MCP23008 기반) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-04-02.ino)
 * :arrow_forward: 50 : LCD 기본 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=vkGooxcotwE)
 * :arrow_forward: 51 : LCD와 다른 구성 요소 조합하기 -> [바로가기 링크](https://www.youtube.com/watch?v=7U6UMsjsSfQ)
 * :arrow_forward: 52 : LCD에 긴 문자열 출력하기 -> [바로가기 링크](https://www.youtube.com/watch?v=icuZdK3LH1M)
