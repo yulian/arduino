@@ -123,10 +123,16 @@
 [ 셋째 마당 ] 
 --------------
 ### 11장  LCD로 문자열 출력하기
-* 실습11-01 : 7세그먼트로 숫자 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-01.ino)
-* 실습11-02 : 7세그먼트의 스케치 코드 개선하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-02.ino)
-* 실습11-03 : 7세그먼트 디코더 활용법 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example11-03.ino)
-* 도전11 : 가변저항으로 7세그먼트를 움직여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge11.ino)
+* 실습11-01 : LCD에 지정한 문자열 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-01.ino)
+* 실습11-02 : LCD에 온돗값 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-02.ino)
+* 실습11-03 : LCD의 출력된 문자에 이동 효과 주기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-03.ino)
+* 실습11-04 : I2C 통신으로 LCD 제어하기(PCF8574 기반) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-04.ino)
+* 실습11-04 : I2C 통신으로 LCD 제어하기(MCP23008 기반) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example11-04-02.ino)
+* :arrow_forward: 50 : LCD 기본 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=vkGooxcotwE)
+* :arrow_forward: 51 : LCD와 다른 구성 요소 조합하기 -> [바로가기 링크](https://www.youtube.com/watch?v=7U6UMsjsSfQ)
+* :arrow_forward: 52 : LCD에 긴 문자열 출력하기 -> [바로가기 링크](https://www.youtube.com/watch?v=icuZdK3LH1M)
+* 도전11 : LCD보다 긴 문자열를 출력해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge11.ino)
+
 
 ### 12장 7세그먼트로 숫자 표시하기
 * 실습12-01 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example12-01.ino)
