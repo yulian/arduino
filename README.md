@@ -104,10 +104,21 @@
 
 
 ### 10장 함수와 라이브러리 활용하기
-* 실습10-01 : LCD에 지정한 문자열 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-01.ino)
-* 실습10-02 : LCD에 온돗값 출력하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-02.ino)
-* 실습10-03 : LCD에 출력된 문자에 이동 효과 주기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example10-03.ino)
-* 도전10 : LCD보다 긴 문자열을 출력해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge10.ino)
+* 실습10-01 : 초음파 센서로 거리 측정하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example10-01.ino)
+* 실습10-02 : 물체 사이의 거리에 반응하는 LED 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example10-02.ino)
+* 실습10-05 : 내가 만든 라이브러리 추가하기(헤더 파일, .h) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/Test.h)
+* 실습10-05 : 내가 만든 라이브러리 추가하기(소스 파일, .cpp) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/Test.cpp)
+* 실습10-05 : 내가 만든 라이브러리 추가하기(스케치 파일, .ino) -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example10-05.ino)
+* 실습10-06 : 서보 모터의 회전 각도 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example10-06.ino)
+* 실습10-07 : 서보 모터와 PIR 센서로 자동문 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example10-07.ino)
+* :arrow_forward: 44 : 초음파 센서로 거리 측정하기 -> [바로가기 링크](https://www.youtube.com/watch?v=92XGsH2p7kU)
+* :arrow_forward: 45 : 물체 사이의 거리에 반응하는 LED 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=Y7darYooXLg)
+* :arrow_forward: 46 : 아두이노 라이브러리 추가하기 -> [바로가기 링크](https://www.youtube.com/watch?v=gyFyvCsIfuk)
+* :arrow_forward: 47 : 내가 만든 라이브러리 추가하기 -> [바로가기 링크](https://www.youtube.com/watch?v=8JqRGAGfLlo)
+* :arrow_forward: 48 : 서보 모터의 각도 조절하기 -> [바로가기 링크](https://www.youtube.com/watch?v=p2pLacRKBzs)
+* :arrow_forward: 49 : 서보 모터로 자동문 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=2ZZ_Mtfw818)
+* 도전10 : 핀이 네 개인 초음파 센서를 다뤄봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge10.ino)
+
 
 [ 셋째 마당 ] 
 --------------
