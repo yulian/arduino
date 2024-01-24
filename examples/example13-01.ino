@@ -14,9 +14,9 @@ void loop() {
     unsigned long data = IrReceiver.decodedIRData.decodedRawData;
     if (data == 0xF30CBF00)   // 적외선 리모컨의 숫자 0을 누를 때 수신하는 값
       digitalWrite(9, HIGH);
-  else
+    else
       digitalWrite(9, LOW);
-  delay(30);
-  IrReceiver.resume();
+    delay(30);
+    IrReceiver.resume();
   }
 }
