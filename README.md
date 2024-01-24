@@ -166,19 +166,31 @@
 * 실습15-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example15-01.ino)
 * 실습15-02 : 초음파 센서와 버저로 악기 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example15-02.ino)
 * 실습15-03 : 푸시 버튼을 추가해 전자 키보드 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example15-03.ino)
-
 * :arrow_forward: 60 : 능동 버저와 수동 버저의 차이점 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=F_gScVTcajw)
 * :arrow_forward: 61 : 피에조 스피커 기본 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=z77DVSTksII)
 * :arrow_forward: 62 : 초음파 센서로 거리에 따라 소리 조절하기 -> [바로가기 링크](https://www.youtube.com/watch?v=oW-mQGevlTw)
 * :arrow_forward: 63 : 아두이노로 만든 전자 키보드 연주하기 -> [바로가기 링크](https://www.youtube.com/watch?v=RxANpernsaU)
-* :arrow_forward: 63 : 전자 키보드 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=ZFRzYFYPdqI)
+* :arrow_forward: 64 : 전자 키보드 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=ZFRzYFYPdqI)
 * 도전15 : 피에조 스피커로 좋아하는 곡을 연주해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge15.ino)
 
+
 ### 16장 블루투스 모듈로 원격 조정하기
+* 실습16-01 : HM-10 블루투스 모듈 설정하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example16-01.ino)
+* 실습16-02 : 스마트폰으로 아두이노의 LED 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example16-02.ino)
+* :arrow_forward: 65 : 아두이노와 블루투스 모듈 연결하기 -> [바로가기 링크](https://www.youtube.com/watch?v=eYfmWzTwWN8)
+* :arrow_forward: 66 : 모바일 앱을 통해 무선으로 LED를 켜고 끄기 -> [바로가기 링크](https://www.youtube.com/watch?v=2BwYun4SxQ8)
+* 도전16 : 스마트폰으로 LED의 밝기를 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge16.ino)
+
 
 [ 넷째 마당 ] 
 --------------
 ### 17장 LED와 버튼을 활용한 프로젝트
+* 실습17-01 : 한쪽 방향으로 흐르는 LED 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-01.ino)
+* 실습17-02 : 양쪽 방향으로 흐르는 LED 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-02.ino)
+* 실습17-03 : 2진수 카운터 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-03.ino)
+* 실습17-04 : 네오픽셀 다루기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-04.ino)
+* 실습17-05 : 스틱형 네오픽셀 다루기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-05.ino)
+
 ### 18장 다양한 센서를 활용한 프로젝트
 ### 19장 게임 만들기 프로젝트
 
