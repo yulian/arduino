@@ -159,10 +159,20 @@
 * 실습14-02 : 이륜 자동차 엔진 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example14-02.ino)
 * :arrow_forward: 58 : 모터 드라이버 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=hxwf3Arn0XU)
 * :arrow_forward: 59 : 이륜 자동차 엔진 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=iVNJy6jugAo)
-* 도전13 : 곡선을 그리는 무선 조종 자동차를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge14.ino)
+* 도전14 : 곡선을 그리는 무선 조종 자동차를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge14.ino)
 
 
 ### 15장 피에조 스피커로 전자 키보드 만들기
+* 실습15-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example15-01.ino)
+* 실습15-02 : 초음파 센서와 버저로 악기 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example15-02.ino)
+* 실습15-03 : 푸시 버튼을 추가해 전자 키보드 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example15-03.ino)
+
+* :arrow_forward: 60 : 능동 버저와 수동 버저의 차이점 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=F_gScVTcajw)
+* :arrow_forward: 61 : 피에조 스피커 기본 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=z77DVSTksII)
+* :arrow_forward: 62 : 초음파 센서로 거리에 따라 소리 조절하기 -> [바로가기 링크](https://www.youtube.com/watch?v=oW-mQGevlTw)
+* :arrow_forward: 63 : 아두이노로 만든 전자 키보드 연주하기 -> [바로가기 링크](https://www.youtube.com/watch?v=RxANpernsaU)
+* :arrow_forward: 63 : 전자 키보드 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=ZFRzYFYPdqI)
+* 도전15 : 피에조 스피커로 좋아하는 곡을 연주해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge15.ino)
 
 ### 16장 블루투스 모듈로 원격 조정하기
 
