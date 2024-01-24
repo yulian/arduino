@@ -155,9 +155,16 @@
 
 
 ### 14장 모터 드라이버로 자동차 엔진 만들기
+* 실습14-01 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example14-01.ino)
+* 실습14-02 : 이륜 자동차 엔진 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example14-02.ino)
+* :arrow_forward: 58 : 모터 드라이버 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=hxwf3Arn0XU)
+* :arrow_forward: 58 : 이륜 자동차 엔진 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=iVNJy6jugAo)
+* 도전13 : 곡선을 그리는 무선 조종 자동차를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge14.ino)
+
 * 실습14-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-01.ino)
 * 실습14-02 : 푸시 버튼을 추가해 전자 키보드 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-02.ino)
 * 도전14 : 피에조 스피커로 좋아하는 곡을 연주해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge14.ino)
+
 
 ### 15장 피에조 스피커로 전자 키보드 만들기
 
