@@ -142,13 +142,17 @@
 * :arrow_forward: 53 : 7세그먼트 기본 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=Ir1h7ubjuSw)
 * :arrow_forward: 54 : 배열을 사용해 7세그먼트 스케치 코드 개선하기 -> [바로가기 링크](https://www.youtube.com/watch?v=roAuTlsjD10)
 * :arrow_forward: 55 : 7세그먼트로 타이머 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=m7v5ky1jA5E)
-* 도전12 : 가변저항으로 7세그먼트를 움직여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge11.ino)
+* 도전12 : 가변저항으로 7세그먼트를 움직여 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge12.ino)
 
 
 ### 13장 적외선 센서와 리모컨 활용하기
-* 실습13-01 : 모터 드라이버로 DC 모터의 방향 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-01.ino)
-* 실습13-02 : 이륜 자동차 엔진 회로 만들기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example13-02.ino)
-* 도전13 : 곡선을 그리는 무선 조종 자동차를 만들어 봐요! -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/challenge/challenge13.ino)
+* 실습13-01 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example13-01.ino)
+* 실습13-02 : 적외선 리모컨으로 무드 등 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example13-02.ino)
+
+* :arrow_forward: 56 : 적외선 센서와 리모컨 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TPmhxjdATOQ)
+* :arrow_forward: 57 : 적외선으로 제어하는 무드 등 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=juWHq4iKF2w)
+* 도전13 : 적외선 리모컨으로 LED의 밝기를 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge13.ino)
+
 
 ### 14장 모터 드라이버로 자동차 엔진 만들기
 * 실습14-01 : 피에조 스피커로 음계 표현하기 -> [바로가기 링크](https://github.com/yulian/arduino_simulation/blob/master/example/example14-01.ino)
