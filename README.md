@@ -148,7 +148,6 @@
 ### 13장 적외선 센서와 리모컨 활용하기
 * 실습13-01 : 리모컨으로 LED 켜기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example13-01.ino)
 * 실습13-02 : 적외선 리모컨으로 무드 등 제어하기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example13-02.ino)
-
 * :arrow_forward: 56 : 적외선 센서와 리모컨 사용법 알아보기 -> [바로가기 링크](https://www.youtube.com/watch?v=TPmhxjdATOQ)
 * :arrow_forward: 57 : 적외선으로 제어하는 무드 등 만들기 -> [바로가기 링크](https://www.youtube.com/watch?v=juWHq4iKF2w)
 * 도전13 : 적외선 리모컨으로 LED의 밝기를 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge13.ino)
@@ -182,6 +181,7 @@
 * 도전16 : 스마트폰으로 LED의 밝기를 제어해 봐요! -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/challenge/challenge16.ino)
 
 
+
 [ 넷째 마당 ] 
 --------------
 ### 17장 LED와 버튼을 활용한 프로젝트
@@ -191,7 +191,18 @@
 * 실습17-04 : 네오픽셀 다루기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-04.ino)
 * 실습17-05 : 스틱형 네오픽셀 다루기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example17-05.ino)
 
+
 ### 18장 다양한 센서를 활용한 프로젝트
+* 실습18-01 : 온습도 측정기 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example18-01.ino)
+* 실습18-02 : 라인 트레이서의 기본 모듈 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example18-02.ino)
+* 실습18-03 : 스마트 화분 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example18-03.ino)
+* 실습18-04 : 손뼉 소리로 켜고 끄는 LED 만들기 -> [바로가기 링크](https://github.com/yulian/arduino/blob/main/examples/example18-04.ino)
+* :arrow_forward: 67 : 온습도 센서(DH11) 사용하기 -> [바로가기 링크](https://www.youtube.com/watch?v=aQ1KzNKV-10)
+* :arrow_forward: 68 : 적외선 트레킹 센서 사용하기 -> [바로가기 링크](https://www.youtube.com/watch?v=oeuZO4ASusk)
+* :arrow_forward: 68 : 토양 수분 감지 모듈 사용하기 -> [바로가기 링크](https://www.youtube.com/watch?v=y0_S1Nc2aXs)
+* :arrow_forward: 69 : 소리 감지 센서 사용하기 -> [바로가기 링크](https://www.youtube.com/watch?v=v7PVF9y7R4s)
+
+
 ### 19장 게임 만들기 프로젝트
 
 ***
